@@ -1,0 +1,7 @@
+bleak
+asyncio
+fastapi
+uvicorn
+pathlib
+loguru
+websockets
